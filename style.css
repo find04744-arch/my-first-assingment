@@ -114,6 +114,10 @@ section .little{
     font-size: small;
     
 } 
+.logo .img{
+    size: 30%;
+    padding:120px;
+}
 .info{
     padding-top: 66px;
     text-align: center;
@@ -137,6 +141,23 @@ section .info-card{
     padding-left: 120px;
 
 }
+#page{
+    max-width: 1360px;
+    background-color: #F7F6F2
+}
+
+.end{
+    background-color:#001931;
+    padding-top: 120px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    background: size 70px; 
+}
+.pic{
+    padding-bottom: 172px;
+}
+
 
 
 
